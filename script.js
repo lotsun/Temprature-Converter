@@ -1,7 +1,7 @@
 // taking input element
 const celsius =document.getElementById('celsius');
 const fahrenheit =document.getElementById('fahrenheit');
-const kelvin =document.getElementById('kelvin');
+const Rankine =document.getElementById('Rankine');
 
 const input_box = document.getElementsByClassName('input_box');
 
@@ -15,7 +15,7 @@ for(let i=0; i<input_box.length; i++){
         switch(e.target.name){
             case "celsius":
                  result = value + 273.32;
-                kelvin.value = parseFloat(result.toFixed(3));
+                 Rankine.value = parseFloat(result.toFixed(3));
                 result = (value *1.8) + 32;
                 fahrenheit.value = parseFloat(result.toFixed(3));
                 // console.log("celsius");
@@ -24,15 +24,15 @@ for(let i=0; i<input_box.length; i++){
                  result = (value - 32)/1.8;
                 celsius.value = parseFloat(result.toFixed(3));
                 result = ((value - 32)/1.8) + 273.15;
-                kelvin.value = parseFloat(result.toFixed(3));
+                Rankine.value = parseFloat(result.toFixed(3));
                 // console.log("fahrenheit");
                 break;
-            case "kelvin":
+            case "Rankine":
                 result = value - 273.15;
                 celsius.value = parseFloat(result.toFixed(3));
                 result = ((value - 273.15)*1.8) + 32;
                 fahrenheit.value = parseFloat(result.toFixed(3));
-                // console.log("kelvin");
+                // console.log("Rankine");
                 break;
         }
     });
