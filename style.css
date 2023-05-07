@@ -2,9 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+   background: #5d55b9;
 }
 body{
-    background-color: #19172e;
+    background-color:#5d55b9;
     height: 100vh;
     font-family: monospace;
     font-size: 1.25rem;
