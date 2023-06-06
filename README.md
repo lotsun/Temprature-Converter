@@ -3,7 +3,7 @@ HTML provides the basic structure of the application, including elements such as
 Then JavaScript provides the functionality for the application. It allows the user to input their temperatures in either Celsius or Fahrenheit and receive an accurate conversion. It also implements logic to make sure that any invalid input is caught and the user is notified.
 <br>
 <br>
-Web capture_6-6-2023_2000_127.0.0.1.jpeg
+
 # Temprature-ConverteR 
 
 
