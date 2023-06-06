@@ -7,7 +7,7 @@ Then JavaScript provides the functionality for the application. It allows the us
 
 <br>
 <br>
-Web capture_6-6-2023_2000_127.0.0.1.jpeg
-# Temprature-ConverteR 
-(https://user-images.githubusercontent.com/50834895/236442455-9fc32a89-c767-41d6-94a4-fa8bf5af28f5.jpeg)
+# Temprature-Converter
 
+
+![Web capture_6-6-2023_2000_127 0 0 1](https://github.com/lotsun/Temprature-Converter/assets/50834895/f9496e98-dd47-4aab-9ae9-ac9295d56f5f)
