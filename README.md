@@ -9,12 +9,4 @@ Then JavaScript provides the functionality for the application. It allows the us
 <br>
 # Temprature-Converter
 
-
-![Web capture_6-6-2023_2000_127 0 0 1](https://github.com/lotsun/Temprature-Converter/assets/50834895/f9496e98-dd47-4aab-9ae9-ac9295d56f5f)
-=======
-
-# Temprature-ConverteR 
-
-
-![Web capture_6-6-2023_2000_127 0 0 1](https://github.com/lotsun/Temprature-Converter/assets/50834895/aaf796e8-bf30-4299-8e0c-07ec822cec16)
-
+![Web capture_6-6-2023_2000_127 0 0 1](https://github.com/lotsun/Temprature-Converter/assets/50834895/6ab2db1d-02ee-44e9-bcbb-e1c77a681a49)
