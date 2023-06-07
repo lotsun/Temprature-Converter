@@ -2,14 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-   background: #5d55b9;
+   background: #5b5892;
 }
 body{
-    background-color:#5d55b9;
+    background-color:#0d0d0d0c;
     height: 100vh;
     font-family: monospace;
     font-size: 1.25rem;
-    color: white;
+    color: rgba(255, 255, 255, 0.979);
 }
 section{
     height: 80vh;
