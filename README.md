@@ -1,5 +1,5 @@
 
-# Temprature-Converter
+# Temprature Converter
 HTML provides the basic structure of the application, including elements such as navigation, forms, and buttons.
 
 It also provides the user interface for the application, allowing users to interact with the app and input their information. <br> CSS styles the application by utilizing various visual design elements. This includes colors, fonts, layout, and effects. It also ensures that the application looks presentable and is easy to read and navigate.
